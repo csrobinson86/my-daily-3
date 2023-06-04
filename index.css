@@ -52,8 +52,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  font-family: 'Manrope', sans-serif;
-  margin: 40px 0;
+  font-family: 'Cabin', sans-serif;
 }
 
 h1 {
@@ -78,6 +77,10 @@ li {
   margin: 0 0 12px 0;
 }
 
+.logo {
+  padding: 16px;
+}
+
 .section-top {
   margin: 0 0 8px 0;
 }
@@ -92,4 +95,9 @@ li {
 
 .section-imitate h2 {
   color: #4a6da7;
+}
+
+footer a {
+  display: block;
+  text-align: center;
 }
