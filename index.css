@@ -82,6 +82,14 @@ li {
   margin: 0 0 8px 0;
 }
 
-.weekdate {
+.section-reading h2 {
+  color: #9d5d07;
+}
 
+.section-quality h2 {
+  color: #942926;
+}
+
+.section-imitate h2 {
+  color: #4a6da7;
 }
